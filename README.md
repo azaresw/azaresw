@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me discord: azaresw
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i own a verified bot named Dozzie
+- ⚡ Fun fact: i own a verified bot named Dozzie and Dozzie ai
 
 <!---
 azaresw/azaresw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
