@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @azaresw
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to update codes from v13 to v14
 - 💞️ I’m looking to collaborate with someone to make a discord.js bot
 - 📫 How to reach me discord: azaresw
 - 😄 Pronouns: he/him
